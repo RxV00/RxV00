@@ -8,7 +8,8 @@ Co-founder of **[CellWise](https://cellwise.io)** and Mathematics student at **T
 - **B.Sc. Mathematics** at Technical University of Munich (TUM)
 
 ### 📂 Featured Projects
-- **[EUROCONTROL PRC Data Challenge 2026](https://github.com/USER/REPO)** — Machine learning entry for EUROCONTROL's Performance Review Commission data challenge on aviation data · Python, PyTorch
+- **[EUROCONTROL PRC Data Challenge 2026](https://github.com/WhemDev/prc-data-challenge-2026-taxi-out)** — Machine learning entry for EUROCONTROL's Performance Review Commission data challenge on aviation data · Python, PyTorch
+- **[EHL Hackathon 2026 — 4th place](https://github.com/WhemDev/ehl-tacto)**
 
 ### 🏆 Background
 - TÜBİTAK Mathematical Olympiad participant · TÜBİTAK summer school qualifier
