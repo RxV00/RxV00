@@ -23,3 +23,4 @@ Co-founder of **[CellWise](https://cellwise.io)** and Mathematics student at **T
 
 ### 📫 Contact
 [tugraagulsoy@gmail.com](mailto:tugraagulsoy@gmail.com)
+https://www.linkedin.com/in/tu%C4%9Fra-g%C3%BClsoy-67ab6630b/?isSelfProfile=true
